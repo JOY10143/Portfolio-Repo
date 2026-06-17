@@ -1,0 +1,33 @@
+.about {
+    font-style: italic;
+    padding: 15px;
+    background-color: #eeebda;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #282b4a;
+}
+
+.highlights {
+    padding: 20px;
+    background-color: #282b4a;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #eeebda;
+}
+
+footer {margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.nav-link {
+color: #eeebda;
+font-weight: bold;
+}
+h2 {
+    color: #53566b;
+}
+a {
+    color: #282828;
+    font-weight: bold;
+}
